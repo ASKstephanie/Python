@@ -1,2 +1,2 @@
 # python-portfolio
-Learning process
+My personal learning process on mastering skills with Python.
